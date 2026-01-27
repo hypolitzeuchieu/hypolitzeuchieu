@@ -7,9 +7,9 @@ I’m a passionate **web developer** and technology enthusiast who loves explori
 
 💻 **Web Development**: Crafting responsive and user-friendly web applications using modern technologies.  
 🔗 **Backend Development**: Building robust APIs and managing scalable systems.  
-🤖 **AI & Automation**: Leveraging artificial intelligence to automate workflows and optimize digital solutions. 
 🌍 **Open Source**: Contributing to and learning from the open-source community.  
 ☁️ **Cloud Computing**: Leveraging cloud platforms to deploy and optimize applications. 
+🤖 **AI & Automation**: Leveraging artificial intelligence to automate workflows and optimize digital solutions. 
 
 ## 🌱 Currently Learning  
 
@@ -17,7 +17,8 @@ I’m a passionate **web developer** and technology enthusiast who loves explori
 - 🛠️ **Django Rest Framework (DRF)** for efficient API development.  
 - ☁️ **Cloud Platforms**: Exploring AWS and Google Cloud.  
 - 🌐 **Language Processing** with tools like Google Translate API.  
-- 🐍 Advanced **Python frameworks** such as Django, Flask, and FastAPI.  
+- 🐍 Advanced **Python frameworks** such as Django, Flask, and FastAPI.  '
+- **AI & Automation** with tools like Make, n8n, Zapier, Openai
 
 ## 💞️ Collaboration  
 
