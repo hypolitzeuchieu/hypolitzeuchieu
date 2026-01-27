@@ -7,6 +7,7 @@ I’m a passionate **web developer** and technology enthusiast who loves explori
 
 💻 **Web Development**: Crafting responsive and user-friendly web applications using modern technologies.  
 🔗 **Backend Development**: Building robust APIs and managing scalable systems.  
+🤖 **AI & Automation**: Leveraging artificial intelligence to automate workflows and optimize digital solutions.
 ☁️ **Cloud Computing**: Leveraging cloud platforms to deploy and optimize applications.  
 🌍 **Open Source**: Contributing to and learning from the open-source community.  
 
