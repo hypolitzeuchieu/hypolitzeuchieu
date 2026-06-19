@@ -8,7 +8,7 @@
 
   <p>
     Driven by curiosity, I embrace new technical challenges and keep pushing my skills forward.<br/>
-    Every step is a chance to learn something worth sharing — with teammates, the community, or whoever landed here.
+    Every step is a chance to learn something worth sharing with teammates, the community, or whoever landed here.
   </p>
 
   <p>
@@ -29,16 +29,16 @@
 
 ### What I work on
 
-- 💻 **Web Development** — responsive, user-friendly applications with modern stacks
-- 🔗 **Backend Development** — robust APIs and scalable systems (Django, DRF, FastAPI)
-- 🌍 **Open Source** — contributing to and learning from the community
-- ☁️ **Cloud** — deploying and optimizing apps on AWS & Google Cloud
-- 🤖 **AI & Automation** — smarter workflows with Make, n8n, Zapier & OpenAI
+- 💻 **Web Development**  responsive, user-friendly applications with modern stacks
+- 🔗 **Backend Development**   robust APIs and scalable systems (Django, DRF, FastAPI)
+- 🌍 **Open Source** contributing to and learning from the community
+- ☁️ **Cloud**  deploying and optimizing apps on AWS & Google Cloud
+- 🤖 **AI & Automation** smarter workflows with Make, n8n, Zapier & OpenAI
 
 ### Exploring
 
-- 🤖 **AI & Automation** — Make, n8n, Zapier, OpenAI
-- ☁️ **Cloud** — AWS & Google Cloud
+- 🤖 **AI & Automation**  Make, n8n, Zapier, OpenAI
+- ☁️ **Cloud**  AWS & Google Cloud
 
 ### Open to collaborate on
 
@@ -60,16 +60,20 @@
 
   <br/><br/>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hypolitzeuchieu&theme=dark&background=0d1117&border=3776ab&stroke=3776ab&ring=ffd43b&fire=ffd43b&currStreakLabel=3776ab&sideLabels=ffffff&currStreakNum=ffd43b&sideNums=ffffff&dates=8b949e)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hypolitzeuchieu&theme=dark&background=0d1117&border=3776ab&stroke=3776ab&ring=ffd43b&fire=ffd43b&currStreakLabel=3776ab&sideLabels=ffffff&currStreakNum=ffd43b&sideNums=ffffff&dates=8b949e&hide_total_contributions=true&starting_year=2026)](https://git.io/streak-stats)
 
   <br/><br/>
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypolitzeuchieu&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd43b&icon_color=3776ab&text_color=ffffff&border_color=3776ab&include_all_commits=true)](https://github.com/hypolitzeuchieu)
+  [![Contributions This Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypolitzeuchieu&theme=2077b4)](https://github.com/hypolitzeuchieu)
+
+  <br/><br/>
+
+  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hypolitzeuchieu&theme=2077b4)](https://github.com/hypolitzeuchieu)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypolitzeuchieu&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd43b&text_color=ffffff&border_color=3776ab)](https://github.com/hypolitzeuchieu)
 
   <br/><br/>
 
-  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20%28Current%20Year%29&hide_border=false)](https://github.com/hypolitzeuchieu)
+  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20This%20Year&hide_border=false)](https://github.com/hypolitzeuchieu)
 
 </div>
 
