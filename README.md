@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="https://github.com/hypolitzeuchieu/hypolitzeuchieu/blob/main/assets/python-spin.gif?raw=true"
-       width="120" alt="Python logo spinning" />
+  <img src="https://github.com/hypolitzeuchieu/hypolitzeuchieu/blob/main/assets/python-trace.gif?raw=true"
+       width="120" alt="Python logo with animated trace" />
 
   <h1>Hypolit Zeuchieu</h1>
   <p><strong>Web Developer & Backend Engineer</strong> · @nkeumosoft</p>
