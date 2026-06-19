@@ -64,16 +64,16 @@
 
   <br/><br/>
 
-  [![Contributions This Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypolitzeuchieu&theme=2077b4)](https://github.com/hypolitzeuchieu)
+  [![Contributions This Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
 
   <br/><br/>
 
-  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hypolitzeuchieu&theme=2077b4)](https://github.com/hypolitzeuchieu)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypolitzeuchieu&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd43b&text_color=ffffff&border_color=3776ab)](https://github.com/hypolitzeuchieu)
+  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypolitzeuchieu&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd43b&text_color=ffffff&border_color=3776ab&disable_animations=true)](https://github.com/hypolitzeuchieu)
 
   <br/><br/>
 
-  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20This%20Year&hide_border=false)](https://github.com/hypolitzeuchieu)
+  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20This%20Year&hide_border=false&radius=16)](https://github.com/hypolitzeuchieu)
 
 </div>
 
