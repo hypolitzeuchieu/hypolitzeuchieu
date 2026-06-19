@@ -1,47 +1,82 @@
-# 👋 Hi, I’m hypolit zeuchieu!  
+<div align="center">
 
-I’m a passionate **web developer** and technology enthusiast who loves exploring innovative solutions to complex problems.  
-💡 My journey in tech is driven by **curiosity**, **creativity**, and a continuous desire to **learn and grow**.
+  <img src="https://github.com/hypolitzeuchieu/hypolitzeuchieu/blob/main/assets/python-spin.gif?raw=true"
+       width="120" alt="Python logo spinning" />
 
-## 👀 Interests  
+  <h1>Hypolit Zeuchieu</h1>
+  <p><strong>Web Developer & Backend Engineer</strong> · @nkeumosoft</p>
 
-💻 **Web Development**: Crafting responsive and user-friendly web applications using modern technologies.  
-🔗 **Backend Development**: Building robust APIs and managing scalable systems.  
-🌍 **Open Source**: Contributing to and learning from the open-source community.  
-☁️ **Cloud Computing**: Leveraging cloud platforms to deploy and optimize applications.                         
-🤖 **AI & Automation**: Leveraging artificial intelligence to automate workflows and optimize digital solutions. 
+  <p>
+    Driven by curiosity, I embrace new technical challenges and keep pushing my skills forward.<br/>
+    Every step is a chance to learn something worth sharing — with teammates, the community, or whoever landed here.
+  </p>
 
-## 🌱 Currently Learning  
+  <p>
+    <a href="https://www.linkedin.com/in/hypolit-zeuchieu-a159392b7">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hypolitzeuchieu@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/hypolitzeuchieu">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
-🚀 Expanding my skills in:  
-- 🛠️ **Django Rest Framework (DRF)** for efficient API development.  
-- ☁️ **Cloud Platforms**: Exploring AWS and Google Cloud.  
-- 🌐 **Language Processing** with tools like Google Translate API.  
-- 🐍 Advanced **Python frameworks** such as Django, Flask, and FastAPI.  '
-- **AI & Automation** with tools like Make, n8n, Zapier, Openai
+</div>
 
-## 💞️ Collaboration  
+---
 
-🤝 I’m open to collaborating on:  
-- ✨ Innovative web development projects.  
-- 🛠️ Open-source initiatives in backend and API development.  
-- 🌍 Anything that bridges **tech** with **real-world impact**.  
+### What I work on
 
-## 📫 Contact Me  
+- 💻 **Web Development** — responsive, user-friendly applications with modern stacks
+- 🔗 **Backend Development** — robust APIs and scalable systems (Django, DRF, FastAPI)
+- 🌍 **Open Source** — contributing to and learning from the community
+- ☁️ **Cloud** — deploying and optimizing apps on AWS & Google Cloud
+- 🤖 **AI & Automation** — smarter workflows with Make, n8n, Zapier & OpenAI
 
-📬 Feel free to reach out if you want to discuss a project, seek advice, or chat about tech!  
-- 📧 **Email**: [hypolitzeuchieu@gmail.com](mailto:hypolitzeuchieu@gmail.com)  
-- 🔗 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/hypolit-zeuchieu-a159392b7)  
-- 🐱 **GitHub**: [@hypolitzeuchieu](https://github.com/hypolitzeuchieu)  
+### Exploring
 
-## 😄 Pronouns  
-He/Him  
+- 🤖 **AI & Automation** — Make, n8n, Zapier, OpenAI
+- ☁️ **Cloud** — AWS & Google Cloud
 
-## ⚡ Fun Fact  
+### Open to collaborate on
 
-When I’m not coding, you’ll likely find me:  
-☕ Exploring new cafes  
-🛠️ Experimenting with gadgets  
-🎥 Watching Netflix movies 🚀  
+- ✨ Innovative web development projects
+- 🛠️ Open-source initiatives in backend and API development
+- 🌍 Anything that bridges **tech** with **real-world impact**
 
-### 🎯 Let’s build something amazing together!  
+### When I'm not coding
+
+☕ Exploring new cafes · 🛠️ Experimenting with gadgets · 🎥 Watching Netflix
+
+---
+
+<div align="center">
+
+  ![Visitors](https://komarev.com/ghpvc/?username=hypolitzeuchieu&label=Visitors&color=3776ab&style=for-the-badge)
+
+  ![Last Commit](https://img.shields.io/github/last-commit/hypolitzeuchieu/hypolitzeuchieu?color=3776ab&label=Last%20commit&logo=git&logoColor=white&style=for-the-badge)
+
+  <br/><br/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hypolitzeuchieu&theme=dark&background=0d1117&border=3776ab&stroke=3776ab&ring=ffd43b&fire=ffd43b&currStreakLabel=3776ab&sideLabels=ffffff&currStreakNum=ffd43b&sideNums=ffffff&dates=8b949e)](https://git.io/streak-stats)
+
+  <br/><br/>
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypolitzeuchieu&show_icons=true&theme=dark&bg_color=0d1117&title_color=ffd43b&icon_color=3776ab&text_color=ffffff&border_color=3776ab&include_all_commits=true)](https://github.com/hypolitzeuchieu)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypolitzeuchieu&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd43b&text_color=ffffff&border_color=3776ab)](https://github.com/hypolitzeuchieu)
+
+  <br/><br/>
+
+  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20%28Current%20Year%29&hide_border=false)](https://github.com/hypolitzeuchieu)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>He/Him · Let's build something amazing together.</sub>
+
+</div>
