@@ -55,12 +55,12 @@
 <div align="center">
 
   ![Visitors](https://komarev.com/ghpvc/?username=hypolitzeuchieu&label=Visitors&color=3776ab&style=for-the-badge)
-
-  ![Last Commit](https://img.shields.io/github/last-commit/hypolitzeuchieu/hypolitzeuchieu?color=3776ab&label=Last%20commit&logo=git&logoColor=white&style=for-the-badge)
+  ![Last Commit](https://img.shields.io/github/last-commit/hypolitzeuchieu/hypolitzeuchieu/main?color=3776ab&label=Last%20commit&logo=git&logoColor=white&style=for-the-badge)
+  ![Commits This Week](https://img.shields.io/github/commit-activity/w/hypolitzeuchieu?color=ffd43b&label=Commits%20this%20week&logo=git&logoColor=white&style=for-the-badge)
 
   <br/><br/>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hypolitzeuchieu&theme=dark&background=0d1117&border=3776ab&stroke=3776ab&ring=ffd43b&fire=ffd43b&currStreakLabel=3776ab&sideLabels=ffffff&currStreakNum=ffd43b&sideNums=ffffff&dates=8b949e&hide_total_contributions=true&starting_year=2026)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hypolitzeuchieu&theme=dark&background=0d1117&border=3776ab&stroke=3776ab&ring=ffd43b&fire=ffd43b&currStreakLabel=3776ab&sideLabels=ffffff&currStreakNum=ffd43b&sideNums=ffffff&dates=8b949e&hide_total_contributions=true&starting_year=2026&disable_animations=false)](https://git.io/streak-stats)
 
   <br/><br/>
 
