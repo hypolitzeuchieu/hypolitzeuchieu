@@ -88,10 +88,6 @@
 - 🛠️ AI integration, fintech, and messaging automation
 - 🌍 Projects that bridge **tech** with **real-world impact**
 
-### When I'm not coding
-
-☕ Exploring new cafes · 🛠️ Experimenting with gadgets · 🎥 Watching Netflix
-
 ---
 
 <div align="center">
