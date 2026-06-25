@@ -4,11 +4,11 @@
        width="120" alt="Python logo with animated trace" />
 
   <h1>Hypolit Zeuchieu</h1>
-  <p><strong>Web Developer & Backend Engineer</strong> · @nkeumosoft</p>
+  <p><strong>Backend Engineer</strong> · <a href="https://github.com/nkeumosoft">@nkeumosoft</a></p>
 
   <p>
-    Driven by curiosity, I embrace new technical challenges and keep pushing my skills forward.<br/>
-    Every step is a chance to learn something worth sharing with teammates, the community, or whoever landed here.
+    I design and ship production backends with <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>PostgreSQL</strong> —<br/>
+    from REST APIs and OAuth2 to AI integrations, messaging automation, and cloud deployments.
   </p>
 
   <p>
@@ -27,24 +27,89 @@
 
 ---
 
-### What I work on
+### What I build
 
-- 💻 **Web Development**  responsive, user-friendly applications with modern stacks
-- 🔗 **Backend Development**   robust APIs and scalable systems (Django, DRF, FastAPI)
-- 🌍 **Open Source** contributing to and learning from the community
-- ☁️ **Cloud**  deploying and optimizing apps on AWS & Google Cloud
-- 🤖 **AI & Automation** smarter workflows with Make, n8n, Zapier & OpenAI
+- 💻 **REST APIs & backend services** Django REST Framework, FastAPI, async PostgreSQL, Celery, Redis
+- 🔐 **Auth & payments** OAuth2/OIDC, OTP flows, KYC document handling, webhooks
+- 🤖 **AI & automation**  OpenAI integrations, RAG workflows, Make, n8n, Zapier
+- ☁️ **Cloud & deployment** AWS (Lambda, S3), Docker, DigitalOcean, Google Cloud
 
-### Exploring
+### Stack
 
-- 🤖 **AI & Automation**  Make, n8n, Zapier, OpenAI
-- ☁️ **Cloud**  AWS & Google Cloud
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Alembic-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Alembic" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Make-6D5EDF?style=for-the-badge&logo=make&logoColor=white" alt="Make" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" alt="Black" />
+  <img src="https://img.shields.io/badge/mypy-2D50A0?style=for-the-badge&logo=python&logoColor=white" alt="mypy" />
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white" alt="uv" />
+
+</p>
+
+### Selected work
+
+| Project | Focus |
+|---------|--------|
+| **FixMeinHouse** | FastAPI + OpenAI Vision on AWS Lambda |
+| **Verbotic** | WhatsApp Business automation at scale (Django, Celery) |
+| **NtahPay** | Payment platform APIs with OAuth2 + KYC |
+| **PropBuilder** | AI-powered SaaS (FastAPI + Next.js) |
 
 ### Open to collaborate on
 
-- ✨ Innovative web development projects
-- 🛠️ Open-source initiatives in backend and API development
-- 🌍 Anything that bridges **tech** with **real-world impact**
+- ✨ Backend/API development and long-term product work
+- 🛠️ AI integration, fintech, and messaging automation
+- 🌍 Projects that bridge **tech** with **real-world impact**
 
 ### When I'm not coding
 
