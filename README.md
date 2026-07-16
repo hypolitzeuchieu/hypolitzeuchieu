@@ -102,7 +102,7 @@
   <br/><br/>
 
   [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hypolitzeuchieu&layout=compact&theme=dark&bg_color=0d1117&title_color=ffd43b&text_color=ffffff&border_color=3776ab&disable_animations=true)](https://github.com/hypolitzeuchieu)
+  [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
 
   <br/><br/>
 
