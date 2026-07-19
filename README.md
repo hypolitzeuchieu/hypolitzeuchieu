@@ -97,10 +97,6 @@
 
   <br/><br/>
 
-  [![Contributions This Year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
-
-  <br/><br/>
-
   [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
   [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hypolitzeuchieu&theme=github_dark)](https://github.com/hypolitzeuchieu)
 
