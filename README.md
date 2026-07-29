@@ -91,6 +91,10 @@
   ![Last Commit](https://img.shields.io/github/last-commit/hypolitzeuchieu/hypolitzeuchieu/main?color=3776ab&label=Last%20commit&logo=git&logoColor=white&style=for-the-badge)
   ![Commits This Week](https://img.shields.io/github/commit-activity/w/hypolitzeuchieu/hypolitzeuchieu?color=ffd43b&label=Commits%20this%20week&logo=git&logoColor=white&style=for-the-badge)
 
+  <br/><br/>
+
+  [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hypolitzeuchieu&bg_color=0d1117&color=3776ab&line=ffd43b&point=ffd43b&area=true&custom_title=Contributions%20This%20Year&hide_border=false&radius=16)](https://github.com/hypolitzeuchieu)
+
 </div>
 
 ---
