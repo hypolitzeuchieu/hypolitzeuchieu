@@ -7,7 +7,7 @@
   <p><strong>Backend Engineer</strong> · <a href="https://github.com/nkeumosoft">@nkeumosoft</a></p>
 
   <p>
-    I design and ship production backends with <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>PostgreSQL</strong> —<br/>
+    I design and ship production backends with <strong>Django</strong>, <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>PostgreSQL</strong> <br/>
     from REST APIs and OAuth2 to AI integrations, messaging automation, and cloud deployments.
   </p>
 
