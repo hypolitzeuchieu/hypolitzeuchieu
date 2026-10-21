@@ -15,8 +15,7 @@
     <a href="#what-i-build">What I build</a> |
     <a href="#skills">Skills</a> |
     <a href="#selected-work">Work</a> |
-    <a href="#speaking">Speaking</a> |
-    <a href="#contact">Contact</a>
+    <a href="#speaking">Speaking</a>
   </p>
 
   <p>
@@ -77,12 +76,6 @@ Speaker, PyCon Cameroon 2026: Python in the browser
 - Backend and API development, and long-term product work
 - AI integration, fintech, and messaging automation
 - Projects that connect tech with real-world impact
-
-### Contact
-
-- [LinkedIn](https://www.linkedin.com/in/hypolit-zeuchieu-a159392b7)
-- [hypolitzeuchieu@gmail.com](mailto:hypolitzeuchieu@gmail.com)
-- [GitHub](https://github.com/hypolitzeuchieu)
 
 ---
 
