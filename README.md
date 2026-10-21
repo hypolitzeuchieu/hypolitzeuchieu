@@ -42,27 +42,22 @@
 - AI and automation: OpenAI integrations, RAG workflows, Make, n8n, Zapier
 - Cloud and deployment: AWS (Lambda, S3), Docker, DigitalOcean, Google Cloud
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
+  <img align="left" width="420" alt="Skills" src="./assets/Skills_Animation_White.gif">
+</picture>
+
 ### Skills
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
-    <img alt="Skills" src="./assets/Skills_Animation_White.gif">
-  </picture>
-</p>
+- **Languages:** Python
+- **Backend:** Django, Django REST Framework, FastAPI, Flask, SQLAlchemy, Alembic, Celery
+- **Data:** PostgreSQL, Redis
+- **Cloud and tools:** AWS, Google Cloud, Docker, Nginx, Linux, Git
+- **AI and automation:** OpenAI, Make, n8n, Zapier
+- **Also:** OAuth2, pytest, Selenium, Beautiful Soup, Firebase, Telegram, Black, mypy, uv
 
-**Languages:** Python
-
-**Backend:** Django, Django REST Framework, FastAPI, Flask, SQLAlchemy, Alembic, Celery
-
-**Data:** PostgreSQL, Redis
-
-**Cloud and tools:** AWS, Google Cloud, Docker, Nginx, Linux, Git
-
-**AI and automation:** OpenAI, Make, n8n, Zapier
-
-**Also:** OAuth2, pytest, Selenium, Beautiful Soup, Firebase, Telegram, Black, mypy, uv
+<br clear="left">
 
 ### Selected work
 
