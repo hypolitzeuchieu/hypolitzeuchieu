@@ -41,12 +41,9 @@
 - AI and automation: OpenAI integrations, RAG workflows, Make, n8n, Zapier
 - Cloud and deployment: AWS (Lambda, S3), Docker, DigitalOcean, Google Cloud
 
-<img src="./assets/auschool.jpg" width="64" alt="AuSchool">
-
-**AuSchool**
-School platform for Cameroonian schools: enrollment, grades, attendance, finances, and a family portal.
-
-<sub>https://auschool.trustconsulting.tech/</sub>
+<b><a href="https://auschool.trustconsulting.tech/">AuSchool</a></b><br>
+School platform for Cameroonian schools: enrollment, grades, attendance, finances, and a family portal.<br>
+<sub>auschool.trustconsulting.tech</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
