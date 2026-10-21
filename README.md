@@ -13,7 +13,7 @@
 
   <p>
     <a href="#what-i-build">What I build</a> |
-    <a href="#stack">Stack</a> |
+    <a href="#skills">Skills</a> |
     <a href="#selected-work">Work</a> |
     <a href="#speaking">Speaking</a> |
     <a href="#contact">Contact</a>
@@ -42,14 +42,27 @@
 - AI and automation: OpenAI integrations, RAG workflows, Make, n8n, Zapier
 - Cloud and deployment: AWS (Lambda, S3), Docker, DigitalOcean, Google Cloud
 
-### Stack
+### Skills
 
-- **Languages:** Python
-- **Backend:** Django, Django REST Framework, FastAPI, Flask, SQLAlchemy, Alembic, Celery
-- **Data:** PostgreSQL, Redis
-- **Cloud and tools:** AWS, Google Cloud, Docker, Nginx, Linux, Git
-- **AI and automation:** OpenAI, Make, n8n, Zapier
-- **Also:** OAuth2, pytest, Selenium, Beautiful Soup, Firebase, Telegram, Black, mypy, uv
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_White.gif">
+    <img alt="Skills" src="./assets/Skills_Animation_White.gif">
+  </picture>
+</p>
+
+**Languages:** Python
+
+**Backend:** Django, Django REST Framework, FastAPI, Flask, SQLAlchemy, Alembic, Celery
+
+**Data:** PostgreSQL, Redis
+
+**Cloud and tools:** AWS, Google Cloud, Docker, Nginx, Linux, Git
+
+**AI and automation:** OpenAI, Make, n8n, Zapier
+
+**Also:** OAuth2, pytest, Selenium, Beautiful Soup, Firebase, Telegram, Black, mypy, uv
 
 ### Selected work
 
